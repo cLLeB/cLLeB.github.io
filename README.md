@@ -9,7 +9,7 @@ Computer Science Undergraduate | KNUST, Ghana
 
 📍 Takoradi, Ghana  
 📧 kyereboatengcaleb@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/caleb-kyere-boateng-6736092b4) • [GitHub](https://github.com/cLLeB) • [Portfolio](https://portfolio-chi-nine-93.vercel.app)
+🔗 [LinkedIn](https://www.linkedin.com/in/caleb-kyere-boateng-6736092b4) • [GitHub](https://github.com/cLLeB) • [Portfolio](https://portfolio.kyere.me)
 
 ---
 
@@ -80,7 +80,7 @@ Personal portfolio website showcasing projects, skills, and professional backgro
 - Clean, responsive design
 - Central hub for professional presence
 
-**Live Site:** https://portfolio-chi-nine-93.vercel.app
+**Live Site:** https://portfolio.kyere.me
 
 ---
 
