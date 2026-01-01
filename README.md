@@ -111,17 +111,6 @@ Kwame Nkrumah University of Science and Technology (KNUST), Kumasi
 
 ---
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cLLeB&show_icons=true&hide_title=true&hide_border=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cLLeB&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
-
----
-
 
 ## Let’s Connect
 
